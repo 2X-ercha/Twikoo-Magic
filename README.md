@@ -4,6 +4,9 @@
 
 ![](https://count.getloli.com/get/@2X-ercha@Twikoo-Magic?theme=gelbooru)
 
+> 因为最早的收录来自于 `@GamerNoTitle` 的 `Valine-Magic`，也是因为这个以及碰巧转了[Twikoo](https://twikoo.js.org/)才想做的这个收录
+> 所以有必要在这里先打个链接[Valine-Magic](https://github.com/GamerNoTitle/Valine-Magic)
+
 ### Twikoo
 
 请注意：如果你想添加多个分类，请记得在每个分类(除了最后一个）的最后一个表情后面加个`,`否则Twikoo无法识别。
