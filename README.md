@@ -4,9 +4,6 @@
 
 ![](https://count.getloli.com/get/@2X-ercha@Twikoo-Magic?theme=gelbooru)
 
-> 因为最早的收录来自于 `@GamerNoTitle` 的 `Valine-Magic`，也是因为这个以及碰巧转了[Twikoo](https://twikoo.js.org/)才想做的这个收录
-> 所以有必要在这里先打个链接[Valine-Magic](https://github.com/GamerNoTitle/Valine-Magic)
-
 ### Twikoo
 
 请注意：如果你想添加多个分类，请记得在每个分类(除了最后一个）的最后一个表情后面加个`,`否则Twikoo无法识别。
@@ -40,10 +37,14 @@
 | [Set667](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/Set667) | [Marup](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/Marup) | [Convenience Store Notes2](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/Convenience-Store-Notes2) |
 | ![](https://valinecdn.bili33.top/Coolapk/coolapk_emotion_71.png) |      ![](https://valinecdn.bili33.top/aodamiao/01.gif)       |       ![](https://valinecdn.bili33.top/lengtu/04.gif)        |
 | [Coolapk酷安](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/Coolapk) | [aodamiao嗷大喵](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/aodamiao) | [lengtu冷兔](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/lengtu) |
-|       ![](https://valinecdn.bili33.top/QQ/tuosai.gif)        |  ![](https://valinecdn.bili33.top/dingtalk/emotion_107.png)  | ![](https://valinecdn.bili33.top/Heybox/expression_heziji_22.png)![](https://valinecdn.bili33.top/Heybox/expression_cube_wa.png) |
+|       ![](https://valinecdn.bili33.top/QQ/tuosai.gif)        |  ![](https://valinecdn.bili33.top/dingtalk/emotion_107.png)  | <img src="https://valinecdn.bili33.top/Heybox/expression_heziji_22.png" style="zoom:33%;" />![](https://valinecdn.bili33.top/Heybox/expression_cube_wa.png) |
 | [QQ官方表情](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/QQ) | [钉钉官方表情](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/dingtalk) | [小黑盒表情包（包括盒娘和方块）](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/Heybox) |
-|   ![](https://valinecdn.bili33.top/Majotabi/367516718.png)   |                                                              |                                                              |
-| [魔女之旅Majotabi（官方）](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/Majotabi) |                                                              |                                                              |
+|   ![](https://valinecdn.bili33.top/Majotabi/367516718.png)   | <img src="https://cdn.jsdelivr.net/gh/cpddo/emotion/xiaochou/19.webp" style="zoom:50%;" /> | <img src="https://cdn.jsdelivr.net/gh/cpddo/emotion/yuanshen/11.jpg" style="zoom:50%;" /> |
+| [魔女之旅Majotabi（官方）](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/Majotabi) | [小丑](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/xiaochou) | [原神](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/Genshin) |
+| <img src="https://cdn.jsdelivr.net/gh/cpddo/emotion/baitian/file_6574887.webp" style="zoom: 33%;" /> | <img src="https://cdn.jsdelivr.net/gh/cpddo/emotion/teletubbies/26.jpg" style="zoom:33%;" /> | <img src="https://cdn.jsdelivr.net/gh/cpddo/emotion/tom_jerry/5.jpg" style="zoom:67%;" /> |
+| [柏田](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/baitian) | [天线宝宝](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/teletubbies) | [猫和老鼠](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/tom_jerry) |
+| <img src="https://cdn.jsdelivr.net/gh/cpddo/emotion/ali/042.gif"  /> | <img src="https://cdn.jsdelivr.net/gh/cpddo/emotion/xiaobiaoqing/11.jpg" style="zoom:150%;" /> | <img src="https://cdn.jsdelivr.net/gh/cpddo/emotion/tusiji/0011.gif" style="zoom:150%;" /> |
+| [阿狸](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/ali) | [小人小表情](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/xiaobiaoqing) | [兔斯基](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/tusiji) |
 
 ### 免责声明
 本仓库内所有图片均来源于网络，仅供学习交流使用。若用户违反相关法律法规造成损失，将由用户自行承担，本仓库所有者和PR提交者不承担一切责任！
