@@ -4,6 +4,10 @@
 
 ![](https://count.getloli.com/get/@2X-ercha@Twikoo-Magic?theme=gelbooru)
 
+> 本仓库不适配 Valine，如果想找到可以直接用于 valine.json 的表情仓库，建议右转[Valine-Magic](https://github.com/GamerNoTitle/Valine-Magic)
+
+> 同样适配 Twikoo 的表情仓库还有[小康的表情速查](https://emotion.xiaokang.me/)
+
 ### Twikoo
 
 请注意：如果你想添加多个分类，请记得在每个分类(除了最后一个）的最后一个表情后面加个`,`否则Twikoo无法识别。
@@ -48,3 +52,4 @@
 
 ### 免责声明
 本仓库内所有图片均来源于网络，仅供学习交流使用。若用户违反相关法律法规造成损失，将由用户自行承担，本仓库所有者和PR提交者不承担一切责任！
+
