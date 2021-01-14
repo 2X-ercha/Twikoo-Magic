@@ -7,7 +7,7 @@
 > 本仓库不适配 Valine，如果想找到可以直接用于 valine.json 的表情仓库，建议右转[Valine-Magic](https://github.com/GamerNoTitle/Valine-Magic)
 
 > 同样适配 Twikoo 的表情仓库还有[小康的表情速查](https://emotion.xiaokang.me/)  
-> Ps: 2021.1.13小康的表情列表已包含本仓库的所有表情，其提供的复制列表已经压缩，可能阅读不畅
+> Ps: 2021.1.13小康的表情列表已包含本仓库的所有表情，其提供的复制列表已经压缩
 
 ### Twikoo
 

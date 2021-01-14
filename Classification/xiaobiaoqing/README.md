@@ -1,6 +1,6 @@
-# 小人小表情
+# 猥琐萌
 
-感谢[@garvey](https://gitee.com/zjwo)提供表情
+感谢[@zjwo](https://github.com/zjwo)和[@Dreamy-TZK](https://github.com/Dreamy-TZK)提供表情
 
 ```json
 {

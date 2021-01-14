@@ -1,6 +1,6 @@
 import json
 
-with open("./twikoo/weisuomeng.json", "r", encoding='utf-8') as j:
+with open("./py//twikoo/weisuomeng.json", "r", encoding='utf-8') as j:
     data = json.load(j)
 # print(data)
 data = data['猥琐萌']['container']

@@ -1,6 +1,6 @@
 import json
 
-with open("valine/bilibiliHotKey.json", "r", encoding = 'utf-8') as valine:
+with open("./py/valine/bilibiliHotKey.json", "r", encoding = 'utf-8') as valine:
     valine = json.load(valine)
 
 twikoodic = {}
@@ -23,6 +23,6 @@ for name in names.keys():
             container.append(dic)
     twikoodic[name]={"type": "emoticon","container": container}
 
-with open("twikoo/bilibiliHotKey.json", "w") as twikoo:
+with open("./py/twikoo/bilibiliHotKey.json", "w") as twikoo:
     twikoo.write(json.dumps(twikoodic, indent=2, separators=(',', ':')))
     
