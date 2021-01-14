@@ -9,7 +9,7 @@ for classname in classlist:
     except: pass
 
     filenamelist = os.listdir("./image/"+classname)
-    url = "https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/" + classname + "/"
+    url = "https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/" + classname + "/"
 
     classjson = {}
     classjson["type"]="image"
