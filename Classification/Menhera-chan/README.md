@@ -2,7 +2,6 @@
 
 由ジョイネット所创作的LINE表情包《メンヘラちゃん。》及其衍生作品的登场角色
 
-![](https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/Menhera-chan/1).jpg)
 ![](https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/Menhera-chan/1.jpg)
 ![](https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/Menhera-chan/10.jpg)
 ![](https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/Menhera-chan/100.jpg)
