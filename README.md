@@ -49,7 +49,7 @@
 | <img src="https://cdn.jsdelivr.net/gh/cpddo/emotion/baitian/file_6574887.webp" style="zoom: 33%;" /> | <img src="https://cdn.jsdelivr.net/gh/cpddo/emotion/teletubbies/26.jpg" style="zoom:33%;" /> | <img src="https://cdn.jsdelivr.net/gh/cpddo/emotion/tom_jerry/5.jpg" style="zoom:67%;" /> |
 | [柏田](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/baitian) | [天线宝宝](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/teletubbies) | [猫和老鼠](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/tom_jerry) |
 | <img src="https://cdn.jsdelivr.net/gh/cpddo/emotion/ali/042.gif"  /> | <img src="https://cdn.jsdelivr.net/gh/cpddo/emotion/xiaobiaoqing/11.jpg" style="zoom:150%;" /> | <img src="https://cdn.jsdelivr.net/gh/cpddo/emotion/tusiji/0011.gif" style="zoom:150%;" /> |
-| [阿狸](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/ali) | [小人小表情](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/xiaobiaoqing) | [兔斯基](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/tusiji) |
+| [阿狸](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/ali) | [猥琐萌](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/xiaobiaoqing) | [兔斯基](https://github.com/2x-ercha/Twikoo-Magic/tree/main/Classification/tusiji) |
 
 ### 免责声明
 本仓库内所有图片均来源于网络，仅供学习交流使用。若用户违反相关法律法规造成损失，将由用户自行承担，本仓库所有者和PR提交者不承担一切责任！
