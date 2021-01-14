@@ -1,0 +1,135 @@
+{
+  "bilibili热词":{
+    "type":"image",
+    "container":[
+      {
+        "text":"bilibiliHotKey-1",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/1.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-2",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/10.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-3",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/11.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-4",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/12.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-5",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/13.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-6",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/14.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-7",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/15.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-8",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/16.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-9",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/17.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-10",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/18.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-11",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/19.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-12",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/2.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-13",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/20.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-14",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/21.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-15",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/22.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-16",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/23.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-17",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/24.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-18",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/25.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-19",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/26.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-20",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/27.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-21",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/28.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-22",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/29.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-23",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/3.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-24",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/30.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-25",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/31.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-26",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/32.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-27",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/4.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-28",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/5.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-29",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/6.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-30",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/7.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-31",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/8.jpg>"
+      },
+      {
+        "text":"bilibiliHotKey-32",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@1.0/image/bilibiliHotKey/9.jpg>"
+      }
+    ]
+  }
+}
