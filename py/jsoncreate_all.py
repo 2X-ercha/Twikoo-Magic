@@ -5,11 +5,11 @@ classlist = os.listdir("./image/")
 
 for classname in classlist:
     # "./Classification/"+classname+"/"
-    try: os.mkdir("./Classification/"+classname+"/")
+    try: os.mkdir("./Class_oss/"+classname+"/")
     except: pass
 
     filenamelist = os.listdir("./image/"+classname)
-    url = "https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/" + classname + "/"
+    url = "https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/" + classname + "/"
 
     classjson = {}
     classjson["type"]="image"
@@ -25,5 +25,5 @@ for classname in classlist:
     owojson={}
     owojson[classname]=classjson
 
-    with open("./Classification/"+classname+"/"+classname+".json", "w", encoding="utf-8") as owo:
+    with open("./Class_oss/"+classname+"/"+classname+".json", "w", encoding="utf-8") as owo:
         owo.write(json.dumps(owojson, indent=2, separators=(',', ':'), ensure_ascii=False))

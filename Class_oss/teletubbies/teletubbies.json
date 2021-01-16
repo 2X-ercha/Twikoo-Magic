@@ -1,0 +1,135 @@
+{
+  "teletubbies":{
+    "type":"image",
+    "container":[
+      {
+        "text":"teletubbies-1",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/1.gif>"
+      },
+      {
+        "text":"teletubbies-2",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/10.jpg>"
+      },
+      {
+        "text":"teletubbies-3",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/11.jpg>"
+      },
+      {
+        "text":"teletubbies-4",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/12.jpg>"
+      },
+      {
+        "text":"teletubbies-5",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/13.jpg>"
+      },
+      {
+        "text":"teletubbies-6",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/14.jpg>"
+      },
+      {
+        "text":"teletubbies-7",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/15.jpg>"
+      },
+      {
+        "text":"teletubbies-8",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/16.jpg>"
+      },
+      {
+        "text":"teletubbies-9",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/17.jpg>"
+      },
+      {
+        "text":"teletubbies-10",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/18.jpg>"
+      },
+      {
+        "text":"teletubbies-11",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/19.jpg>"
+      },
+      {
+        "text":"teletubbies-12",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/2.gif>"
+      },
+      {
+        "text":"teletubbies-13",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/2.jpg>"
+      },
+      {
+        "text":"teletubbies-14",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/20.jpg>"
+      },
+      {
+        "text":"teletubbies-15",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/21.jpg>"
+      },
+      {
+        "text":"teletubbies-16",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/22.jpg>"
+      },
+      {
+        "text":"teletubbies-17",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/23.jpg>"
+      },
+      {
+        "text":"teletubbies-18",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/24.jpg>"
+      },
+      {
+        "text":"teletubbies-19",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/25.jpg>"
+      },
+      {
+        "text":"teletubbies-20",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/26.jpg>"
+      },
+      {
+        "text":"teletubbies-21",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/27.jpg>"
+      },
+      {
+        "text":"teletubbies-22",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/28.jpg>"
+      },
+      {
+        "text":"teletubbies-23",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/29.jpg>"
+      },
+      {
+        "text":"teletubbies-24",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/3.gif>"
+      },
+      {
+        "text":"teletubbies-25",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/3.jpg>"
+      },
+      {
+        "text":"teletubbies-26",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/30.jpg>"
+      },
+      {
+        "text":"teletubbies-27",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/4.jpg>"
+      },
+      {
+        "text":"teletubbies-28",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/5.jpg>"
+      },
+      {
+        "text":"teletubbies-29",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/6.jpg>"
+      },
+      {
+        "text":"teletubbies-30",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/7.jpg>"
+      },
+      {
+        "text":"teletubbies-31",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/8.jpg>"
+      },
+      {
+        "text":"teletubbies-32",
+        "icon":"<img src=https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/teletubbies/9.jpg>"
+      }
+    ]
+  }
+}

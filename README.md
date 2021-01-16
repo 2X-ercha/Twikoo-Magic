@@ -6,11 +6,17 @@
 > **1/14后的所有表情json列表已全部更新，已适配`Twikoo@1.1.0-beta`及此后的版本**  
 > **此前版本所造成的不便作者深感抱歉**
 
-> 建议白嫖的各位大大们去[issue#1](https://github.com/2X-ercha/Twikoo-Magic/issues/1)留言 ~~(不妨给本仓库点个star？)~~
+### 备用json
+
+备用的json位于文件夹Class_oss中，图床采用阿里云oss，国内访问速度较快（不过使用了备用站的json的话记得自己改一下表情组的名字，同时**不要滥用备用站点！！！**
 
 **访问量**（自2021.1.6 00:00:00）
 
 ![](https://count.getloli.com/get/@2X-ercha@Twikoo-Magic?theme=gelbooru)
+
+### 白嫖提示
+
+> 建议白嫖的各位大大们去[issue#1](https://github.com/2X-ercha/Twikoo-Magic/issues/1)留言 ~~(不妨给本仓库点个star？)~~
 
 > 本仓库不适配 Valine，如果想找到可以直接用于 valine.json 的表情仓库，建议右转[Valine-Magic](https://github.com/GamerNoTitle/Valine-Magic)
 
