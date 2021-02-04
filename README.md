@@ -10,8 +10,7 @@
 
 #### 2021/2/4
 
-> 对[@ChenYFan](https://github.com/ChenYFan)开发的hexo后台系统[HexoPlusPlus](https://github.com/HexoPlusPlus/HexoPlusPlus) ~~提前(小声)~~ 完成表情懒加载的适配  
-> ~~大佬说如果做懒加载的话 “只能修改json里面的数据，将img标签添加data-src伪元素。”~~
+> 对[@ChenYFan](https://github.com/ChenYFan)开发的hexo后台系统[HexoPlusPlus](https://github.com/HexoPlusPlus/HexoPlusPlus) ~~提前(小声)~~ 完成表情懒加载的适配
 
 ### oss镜像站
 
@@ -31,6 +30,8 @@
 
 ### Twikoo
 
+如果采用主站，请直接点击**表情速览**的文字链接；采用oss站点请点击文字链接下方的 `oss` 链接 
+
 请注意：如果你想添加多个分类，请记得在每个分类(除了最后一个）的最后一个表情后面加个`,`否则Twikoo无法识别。
 
 列表位于对应链接的json文件中。
@@ -42,6 +43,8 @@
 ### HexoPlusPlus
 
 步骤同上，但对应的文件夹位于[Class_hpp](https://github.com/2X-ercha/Twikoo-Magic/Class_hpp)
+
+请点击**表情速览**文字链接下方的 `hpp` 链接 
 
 ### 表情分类
 
