@@ -1,4 +1,4 @@
-# Twikoo-and-HexoPlusPlus-Magic
+# Twikoo-Magic
 
 ### 更新说明
 
@@ -10,7 +10,7 @@
 
 #### 2021/2/4
 
-> 对[@ChenYFan](https://github.com/ChenYFan)开发的hexo后台系统[HexoPlusPlus](https://github.com/HexoPlusPlus/HexoPlusPlus) ~~提前(小声)~~ 完成表情懒加载的适配
+> 对[@ChenYFan](https://github.com/ChenYFan)开发的hexo后台系统[HexoPlusPlus](https://github.com/HexoPlusPlus/HexoPlusPlus)也可以直接适配
 
 ### oss镜像站
 
@@ -28,7 +28,7 @@
 
 > 同样适配 Twikoo 的表情仓库还有[小康的表情速查](https://emotion.xiaokang.me/)，**在此感谢小康采用了我的oss镜像源！**
 
-### Twikoo
+### Twikoo | HexoPlusPlus
 
 如果采用主站，请直接点击**表情速览**的文字链接；采用oss站点请点击文字链接下方的 `oss` 链接 
 
@@ -40,12 +40,6 @@
 
 如果你有新的表情包想要加入，你可以提出issue，或者直接发到[noionion@outlook.com](mailto:noionion@outlook.com)，并注上你的ID和表情包名字（中文英文都需要）
 
-### HexoPlusPlus
-
-步骤同上，但对应的文件夹位于[Class_hpp](https://github.com/2X-ercha/Twikoo-Magic/Class_hpp)
-
-请点击**表情速览**文字链接下方的 `hpp` 链接 
-
 ### 表情分类
 
 为方便阅读，这里提供的json均未压缩。
@@ -55,46 +49,46 @@
 |    ![](https://valinecdn.bili33.top/bilibiliHotKey/7.jpg)    |  ![](https://valinecdn.bili33.top/bilibilitv/[tv_doge].png)  | ![](https://valinecdn.bili33.top/bilibili2233/[2233娘_第一].png) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [哔哩哔哩热词系列](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/bilibiliHotKey) | [哔哩哔哩小电视系列](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/bilibilitv) | [哔哩哔哩2233娘系列](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/bilibili2233) |
-| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/bilibiliHotKey) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/bilibiliHotKey) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/bilibilitv) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/bilibilitv) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/bilibili2233) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/bilibili2233) |
+| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/bilibiliHotKey) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/bilibilitv) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/bilibili2233) |
 |        ![](https://valinecdn.bili33.top/alu/中枪.png)        | <img src='https://valinecdn.bili33.top/Menhera-chan/5.jpg' width=120 height=102></img> |    ![](https://valinecdn.bili33.top/HONKAI3-Daily/14.gif)    |
 | [阿鲁alu系列](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/alu) | [メンヘラちゃん(Menhera-chan)系列表情包](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/Menhera-chan) | [HONKAI崩坏3 日常篇](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/HONKAI3-Daily) |
-| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/alu) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/alu) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Menhera-chan) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/Menhera-chan) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/HONKAI3-Daily) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/HONKAI3-Daily) |
+| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/alu) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Menhera-chan) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/HONKAI3-Daily) |
 |     ![](https://valinecdn.bili33.top/HONKAI3-Star/3.gif)     |   ![](https://valinecdn.bili33.top/HONKAI3-Crayon/16.gif)    |    ![](https://valinecdn.bili33.top/HONKAI3-Pure/13.gif)     |
 | [HONKAI崩坏3 观星篇](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/HONKAI3-Star) | [HONKAI崩坏3 蜡笔日常篇](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/HONKAI3-Crayon) | [HONKAI崩坏3 纯色日常篇](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/HONKAI3-Pure) |
-| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/HONKAI3-Star) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/HONKAI3-Star) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/HONKAI3-Crayon) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/HONKAI3-Crayon) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/HONKAI3-Pure) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/HONKAI3-Pure) |
+| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/HONKAI3-Star) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/HONKAI3-Crayon) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/HONKAI3-Pure) |
 | <img src='https://valinecdn.bili33.top/HONKAI3-Stan/4f921b8ad8c16f3d2c73e3c04c5735ca9b41187b.gif' width=104 height=74.4> | <img src='https://valinecdn.bili33.top/HONKAI3-AIChan/d65b36ccae610bc4479209cd6e62bb91b0f76188.jpg' width=125 height=111></img> | <img src='https://valinecdn.bili33.top/HONKAI3-Durandal-Search/f1b9a456587638e488d93ccaa95dde59aef3af01.gif' height=100 width=100></img> |
 | [HONKAI崩坏3 史丹](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/HONKAI3-Stan) | [HONKAI崩坏3 爱酱](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/HONKAI3-AIChan) | [HONKAI崩坏3 目标！幽兰黛尔](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/HONKAI3-Durandal-Search) |
-| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/HONKAI3-Stan) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/HONKAI3-Stan) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/HONKAI3-AIChan) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/HONKAI3-AIChan) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/HONKAI3-Durandal-Search) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/HONKAI3-Durandal-Search) |
+| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/HONKAI3-Stan) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/HONKAI3-AIChan) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/HONKAI3-Durandal-Search) |
 | <img src='https://valinecdn.bili33.top/HONKAI3-MEI/bf68423446465d396d3cbd8856882b5e9fb1c0c7.gif' width=120 height=120> | <img src='https://valinecdn.bili33.top/HONKAI3-NEWYEAR-2019/dc1a2b2032fad29373fe8460d4ad89ca848355a9.jpg' width=120 height=120> | ![](https://valinecdn.bili33.top/Tsuri-me-ju_mimi/10753793_key@2x.png) |
 | [HONKAI崩坏3 芽衣的剑道修行](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/HONKAI3-MEI) | [HONKAI崩坏3 2019新年](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/HONKAI3-NEWYEAR-2019) | [つり目獣耳スタンプ(Sticker of the slant eyes & cat girl)](https://github.com/2X-ercha/Twikoo-Magic/tree/master/Classification/Tsuri-me-ju_mimi) |
-| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/HONKAI3-MEI) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/HONKAI3-MEI) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/HONKAI3-NEWYEAR-2019) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/HONKAI3-NEWYEAR-2019) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Tsuri-me-ju_mimi) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/Tsuri-me-ju_mimi) |
+| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/HONKAI3-MEI) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/HONKAI3-NEWYEAR-2019) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Tsuri-me-ju_mimi) |
 | <img src="https://valinecdn.bili33.top/Arcaea/184064198.png" style="zoom:50%;" /> | <img src="https://valinecdn.bili33.top/Mafumafu/199749477.png" style="zoom:50%;" /> |     ![](https://valinecdn.bili33.top/weibo/d_jiyan.png)      |
 | [Arcaea](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/Arcaea) | [動く！まふまふスタンプ（ねこ）Mafumafu Animation sticker (cat)](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/MafuMafu) | [微博原生表情包](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/weibo) |
-| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Arcaea) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/Arcaea) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/MafuMafu) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/MafuMafu) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/weibo) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/weibo) |
+| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Arcaea) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/MafuMafu) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/weibo) |
 | ![](https://valinecdn.bili33.top/Tieba-New/image_emoticon25.png) | <img src="https://valinecdn.bili33.top/Snow-Miku/3583066@2x.png" style="zoom:50%;" /> | <img src="https://valinecdn.bili33.top/Sweetie-Bunny/12311679.png" style="zoom:50%;" /> |
 | [百度贴吧原生表情包](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/Tieba-New) | [Snow Miku雪初音表情包（LINE）](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/Snow-Miku) | [うさみみ少女（SWEETIE BUNNY）](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/Sweetie-Bunny) |
-| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Tieba-New) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/Tieba-New) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Snow-Miku) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/Snow-Miku) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Sweetie-Bunny) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/Sweetie-Bunny) |
+| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Tieba-New) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Snow-Miku) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Sweetie-Bunny) |
 | <img src="https://valinecdn.bili33.top/Little-Bad/我们一起做坏坏的事.jpg" style="zoom:50%;" /> | <img src="https://valinecdn.bili33.top/Yurui-Neko/029.png" style="zoom:50%;" /> | <img src="https://valinecdn.bili33.top/Cute-Emoji/010.png" style="zoom:50%;" /> |
 | [小坏坏表情包](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/Little-Bad) | [Yurui-Neko](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/Yurui-Neko) | [Cute-Emoji](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/Cute-Emoji) |
-| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Little-Bad) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/Little-Bad) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Yurui-Neko) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/Yurui-Neko) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Cute-Emoji) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/Cute-Emoji) |
+| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Little-Bad) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Yurui-Neko) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Cute-Emoji) |
 | <img src="https://valinecdn.bili33.top/Set667/032.png" style="zoom:50%;" /> | <img src="https://valinecdn.bili33.top/Marup/038.png" style="zoom:50%;" /> | <img src="https://valinecdn.bili33.top/Convenience-Store-Notes2/010.png" style="zoom:50%;" /> |
 | [Set667](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/Set667) | [Marup](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/Marup) | [Convenience Store Notes2](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/Convenience-Store-Notes2) |
-| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Set667) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/Set667) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Marup) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/Marup) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Convenience-Store-Notes2) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/Convenience-Store-Notes2) |
+| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Set667) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Marup) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Convenience-Store-Notes2) |
 | ![](https://valinecdn.bili33.top/Coolapk/coolapk_emotion_71.png) |      ![](https://valinecdn.bili33.top/aodamiao/01.gif)       |       ![](https://valinecdn.bili33.top/lengtu/04.gif)        |
 | [Coolapk酷安](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/Coolapk) | [aodamiao嗷大喵](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/aodamiao) | [lengtu冷兔](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/lengtu) |
-| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Coolapk) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/Coolapk) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/aodamiao) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/aodamiao) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/lengtu) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/lengtu) |
+| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Coolapk) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/aodamiao) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/lengtu) |
 |       ![](https://valinecdn.bili33.top/QQ/tuosai.gif)        |  ![](https://valinecdn.bili33.top/dingtalk/emotion_107.png)  | <img src="https://valinecdn.bili33.top/Heybox/expression_heziji_22.png" style="zoom:33%;" />![](https://valinecdn.bili33.top/Heybox/expression_cube_wa.png) |
 | [QQ官方表情](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/QQ) | [钉钉官方表情](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/dingtalk) | [小黑盒表情包（包括盒娘和方块）](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/Heybox) |
-| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/QQ) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/QQ) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/dingtalk) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/dingtalk) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Heybox) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/Heybox) |
+| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/QQ) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/dingtalk) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Heybox) |
 |   ![](https://valinecdn.bili33.top/Majotabi/367516718.png)   | <img src="https://cdn.jsdelivr.net/gh/cpddo/emotion/xiaochou/19.webp" style="zoom:50%;" /> | <img src="https://cdn.jsdelivr.net/gh/cpddo/emotion/yuanshen/11.jpg" style="zoom:50%;" /> |
 | [魔女之旅Majotabi（官方）](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/Majotabi) | [小丑](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/xiaochou) | [原神](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/Genshin) |
-| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Majotabi) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/Majotabi) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/xiaochou) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/xiaochou) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Genshin) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/Genshin) |
+| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Majotabi) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/xiaochou) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Genshin) |
 | <img src="https://cdn.jsdelivr.net/gh/cpddo/emotion/baitian/file_6574887.webp" style="zoom: 33%;" /> | <img src="https://cdn.jsdelivr.net/gh/cpddo/emotion/teletubbies/26.jpg" style="zoom:33%;" /> | <img src="https://cdn.jsdelivr.net/gh/cpddo/emotion/tom_jerry/5.jpg" style="zoom:67%;" /> |
 | [柏田](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/baitian) | [天线宝宝](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/teletubbies) | [猫和老鼠](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/tom_jerry) |
-| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/baitian) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/baitian) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/teletubbies) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/teletubbies) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/tom_jerry) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/tom_jerry) |
+| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/baitian) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/teletubbies) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/tom_jerry) |
 | <img src="https://cdn.jsdelivr.net/gh/cpddo/emotion/ali/042.gif"  /> | <img src="https://cdn.jsdelivr.net/gh/cpddo/emotion/xiaobiaoqing/11.jpg" style="zoom:150%;" /> | <img src="https://cdn.jsdelivr.net/gh/cpddo/emotion/tusiji/0011.gif" style="zoom:150%;" /> |
 | [阿狸](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/ali) | [猥琐萌](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/weisuomeng) | [兔斯基](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/tusiji) |
-| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/ali) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/ali) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/weisuomeng) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/weisuomeng) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/tusiji) && [hpp](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_hpp/tusiji) |
+| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/ali) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/weisuomeng) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/tusiji) |
 
 
 
