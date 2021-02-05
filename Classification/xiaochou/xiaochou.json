@@ -1,86 +1,86 @@
 {
-  "小丑":{
+  "xiaochou":{
     "type":"image",
     "container":[
       {
         "text":"xiaochou-1",
-        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/1.webp>"
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/1.webp'>"
       },
       {
         "text":"xiaochou-2",
-        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/10.webp>"
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/10.webp'>"
       },
       {
         "text":"xiaochou-3",
-        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/11.webp>"
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/11.webp'>"
       },
       {
         "text":"xiaochou-4",
-        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/12.webp>"
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/12.webp'>"
       },
       {
         "text":"xiaochou-5",
-        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/13.webp>"
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/13.webp'>"
       },
       {
         "text":"xiaochou-6",
-        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/14.webp>"
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/14.webp'>"
       },
       {
         "text":"xiaochou-7",
-        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/15.webp>"
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/15.webp'>"
       },
       {
         "text":"xiaochou-8",
-        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/16.webp>"
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/16.webp'>"
       },
       {
         "text":"xiaochou-9",
-        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/17.webp>"
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/17.webp'>"
       },
       {
         "text":"xiaochou-10",
-        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/18.webp>"
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/18.webp'>"
       },
       {
         "text":"xiaochou-11",
-        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/19.webp>"
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/19.webp'>"
       },
       {
         "text":"xiaochou-12",
-        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/2.webp>"
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/2.webp'>"
       },
       {
         "text":"xiaochou-13",
-        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/20.webp>"
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/20.webp'>"
       },
       {
         "text":"xiaochou-14",
-        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/3.webp>"
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/3.webp'>"
       },
       {
         "text":"xiaochou-15",
-        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/4.webp>"
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/4.webp'>"
       },
       {
         "text":"xiaochou-16",
-        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/5.webp>"
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/5.webp'>"
       },
       {
         "text":"xiaochou-17",
-        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/6.webp>"
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/6.webp'>"
       },
       {
         "text":"xiaochou-18",
-        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/7.webp>"
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/7.webp'>"
       },
       {
         "text":"xiaochou-19",
-        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/8.webp>"
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/8.webp'>"
       },
       {
         "text":"xiaochou-20",
-        "icon":"<img src=https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/9.webp>"
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/xiaochou/9.webp'>"
       }
     ]
   }
