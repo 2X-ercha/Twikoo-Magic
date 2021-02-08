@@ -1,0 +1,71 @@
+{
+  "明日方舟-荒芜":{
+    "type":"image",
+    "container":[
+      {
+        "text":"Arknights_aridity-1",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_aridity/aridity_01.jpg'>"
+      },
+      {
+        "text":"Arknights_aridity-2",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_aridity/aridity_02.jpg'>"
+      },
+      {
+        "text":"Arknights_aridity-3",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_aridity/aridity_03.jpg'>"
+      },
+      {
+        "text":"Arknights_aridity-4",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_aridity/aridity_04.jpg'>"
+      },
+      {
+        "text":"Arknights_aridity-5",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_aridity/aridity_05.jpg'>"
+      },
+      {
+        "text":"Arknights_aridity-6",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_aridity/aridity_06.jpg'>"
+      },
+      {
+        "text":"Arknights_aridity-7",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_aridity/aridity_07.jpg'>"
+      },
+      {
+        "text":"Arknights_aridity-8",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_aridity/aridity_08.jpg'>"
+      },
+      {
+        "text":"Arknights_aridity-9",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_aridity/aridity_09.jpg'>"
+      },
+      {
+        "text":"Arknights_aridity-10",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_aridity/aridity_10.jpg'>"
+      },
+      {
+        "text":"Arknights_aridity-11",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_aridity/aridity_11.jpg'>"
+      },
+      {
+        "text":"Arknights_aridity-12",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_aridity/aridity_12.jpg'>"
+      },
+      {
+        "text":"Arknights_aridity-13",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_aridity/aridity_13.jpg'>"
+      },
+      {
+        "text":"Arknights_aridity-14",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_aridity/aridity_14.jpg'>"
+      },
+      {
+        "text":"Arknights_aridity-15",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_aridity/aridity_15.jpg'>"
+      },
+      {
+        "text":"Arknights_aridity-16",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_aridity/aridity_16.jpg'>"
+      }
+    ]
+  }
+}

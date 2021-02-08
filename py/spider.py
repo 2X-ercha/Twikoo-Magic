@@ -9,11 +9,11 @@ while 1:
     dicname = input()
 
     try: 
-        os.mkdir("./image/"+dicname)
+        os.mkdir("./py/newimage/"+dicname)
     except: 
         pass
 
-    os.chdir("./image/"+dicname)
+    os.chdir("./py/newimage/"+dicname)
 
     while 1:
         s=input()
@@ -26,5 +26,6 @@ while 1:
             img.write(requests.get(url, headers=headers).content)
             print("已保存"+name)
     
+    os.chdir("..")
     os.chdir("..")
     os.chdir("..")
