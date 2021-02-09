@@ -31,7 +31,7 @@
       { "icon": "( ๑´•ω•) \"(ㆆᴗㆆ)", "text": "" }
     ]
   },
-  "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/bilibilitv/[tv_微笑].png'>":{
+  "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/bilibilitv/[tv_微笑].png' width='50' height='50'>":{
     "type":"image",
     "container":[
       {
