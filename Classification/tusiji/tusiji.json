@@ -1,0 +1,167 @@
+{
+  "tusiji":{
+    "type":"image",
+    "container":[
+      {
+        "text":"tusiji-1",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0001.gif'>"
+      },
+      {
+        "text":"tusiji-2",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0002.gif'>"
+      },
+      {
+        "text":"tusiji-3",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0003.gif'>"
+      },
+      {
+        "text":"tusiji-4",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0004.gif'>"
+      },
+      {
+        "text":"tusiji-5",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0005.gif'>"
+      },
+      {
+        "text":"tusiji-6",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0006.gif'>"
+      },
+      {
+        "text":"tusiji-7",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0007.gif'>"
+      },
+      {
+        "text":"tusiji-8",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0008.gif'>"
+      },
+      {
+        "text":"tusiji-9",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0009.gif'>"
+      },
+      {
+        "text":"tusiji-10",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0010.gif'>"
+      },
+      {
+        "text":"tusiji-11",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0011.gif'>"
+      },
+      {
+        "text":"tusiji-12",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0012.gif'>"
+      },
+      {
+        "text":"tusiji-13",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0013.gif'>"
+      },
+      {
+        "text":"tusiji-14",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0014.gif'>"
+      },
+      {
+        "text":"tusiji-15",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0015.gif'>"
+      },
+      {
+        "text":"tusiji-16",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0016.gif'>"
+      },
+      {
+        "text":"tusiji-17",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0017.gif'>"
+      },
+      {
+        "text":"tusiji-18",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0018.gif'>"
+      },
+      {
+        "text":"tusiji-19",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0019.gif'>"
+      },
+      {
+        "text":"tusiji-20",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0020.gif'>"
+      },
+      {
+        "text":"tusiji-21",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0021.gif'>"
+      },
+      {
+        "text":"tusiji-22",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0022.gif'>"
+      },
+      {
+        "text":"tusiji-23",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0023.gif'>"
+      },
+      {
+        "text":"tusiji-24",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0024.gif'>"
+      },
+      {
+        "text":"tusiji-25",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0025.gif'>"
+      },
+      {
+        "text":"tusiji-26",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0026.gif'>"
+      },
+      {
+        "text":"tusiji-27",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0027.gif'>"
+      },
+      {
+        "text":"tusiji-28",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0028.gif'>"
+      },
+      {
+        "text":"tusiji-29",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0029.gif'>"
+      },
+      {
+        "text":"tusiji-30",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0030.gif'>"
+      },
+      {
+        "text":"tusiji-31",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0031.gif'>"
+      },
+      {
+        "text":"tusiji-32",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0032.gif'>"
+      },
+      {
+        "text":"tusiji-33",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0033.gif'>"
+      },
+      {
+        "text":"tusiji-34",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0034.gif'>"
+      },
+      {
+        "text":"tusiji-35",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0035.gif'>"
+      },
+      {
+        "text":"tusiji-36",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0036.gif'>"
+      },
+      {
+        "text":"tusiji-37",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0037.gif'>"
+      },
+      {
+        "text":"tusiji-38",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0038.gif'>"
+      },
+      {
+        "text":"tusiji-39",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0039.gif'>"
+      },
+      {
+        "text":"tusiji-40",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/tusiji/0040.gif'>"
+      }
+    ]
+  }
+}

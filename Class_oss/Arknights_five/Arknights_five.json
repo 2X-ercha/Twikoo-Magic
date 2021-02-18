@@ -1,0 +1,71 @@
+{
+  "明日方舟-第五弹":{
+    "type":"image",
+    "container":[
+      {
+        "text":"Arknights_five-1",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_five/five_01.jpg'>"
+      },
+      {
+        "text":"Arknights_five-2",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_five/five_02.jpg'>"
+      },
+      {
+        "text":"Arknights_five-3",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_five/five_03.jpg'>"
+      },
+      {
+        "text":"Arknights_five-4",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_five/five_04.jpg'>"
+      },
+      {
+        "text":"Arknights_five-5",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_five/five_05.jpg'>"
+      },
+      {
+        "text":"Arknights_five-6",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_five/five_06.jpg'>"
+      },
+      {
+        "text":"Arknights_five-7",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_five/five_07.jpg'>"
+      },
+      {
+        "text":"Arknights_five-8",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_five/five_08.jpg'>"
+      },
+      {
+        "text":"Arknights_five-9",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_five/five_09.jpg'>"
+      },
+      {
+        "text":"Arknights_five-10",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_five/five_10.jpg'>"
+      },
+      {
+        "text":"Arknights_five-11",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_five/five_11.jpg'>"
+      },
+      {
+        "text":"Arknights_five-12",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_five/five_12.jpg'>"
+      },
+      {
+        "text":"Arknights_five-13",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_five/five_13.jpg'>"
+      },
+      {
+        "text":"Arknights_five-14",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_five/five_14.jpg'>"
+      },
+      {
+        "text":"Arknights_five-15",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_five/five_15.jpg'>"
+      },
+      {
+        "text":"Arknights_five-16",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_five/five_16.jpg'>"
+      }
+    ]
+  }
+}

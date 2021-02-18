@@ -1,0 +1,71 @@
+{
+  "明日方舟-第四弹":{
+    "type":"image",
+    "container":[
+      {
+        "text":"Arknights_four-1",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_four/four_01.jpg'>"
+      },
+      {
+        "text":"Arknights_four-2",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_four/four_02.jpg'>"
+      },
+      {
+        "text":"Arknights_four-3",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_four/four_03.jpg'>"
+      },
+      {
+        "text":"Arknights_four-4",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_four/four_04.jpg'>"
+      },
+      {
+        "text":"Arknights_four-5",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_four/four_05.jpg'>"
+      },
+      {
+        "text":"Arknights_four-6",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_four/four_06.jpg'>"
+      },
+      {
+        "text":"Arknights_four-7",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_four/four_07.jpg'>"
+      },
+      {
+        "text":"Arknights_four-8",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_four/four_08.jpg'>"
+      },
+      {
+        "text":"Arknights_four-9",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_four/four_09.jpg'>"
+      },
+      {
+        "text":"Arknights_four-10",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_four/four_10.jpg'>"
+      },
+      {
+        "text":"Arknights_four-11",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_four/four_11.jpg'>"
+      },
+      {
+        "text":"Arknights_four-12",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_four/four_12.jpg'>"
+      },
+      {
+        "text":"Arknights_four-13",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_four/four_13.jpg'>"
+      },
+      {
+        "text":"Arknights_four-14",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_four/four_14.jpg'>"
+      },
+      {
+        "text":"Arknights_four-15",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_four/four_15.jpg'>"
+      },
+      {
+        "text":"Arknights_four-16",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Arknights_four/four_16.jpg'>"
+      }
+    ]
+  }
+}

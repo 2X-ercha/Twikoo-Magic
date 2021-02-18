@@ -1,0 +1,95 @@
+{
+  "Genshin":{
+    "type":"image",
+    "container":[
+      {
+        "text":"Genshin-1",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Genshin/1.jpg'>"
+      },
+      {
+        "text":"Genshin-2",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Genshin/10.jpg'>"
+      },
+      {
+        "text":"Genshin-3",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Genshin/11.jpg'>"
+      },
+      {
+        "text":"Genshin-4",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Genshin/12.jpg'>"
+      },
+      {
+        "text":"Genshin-5",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Genshin/13.jpg'>"
+      },
+      {
+        "text":"Genshin-6",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Genshin/14.jpg'>"
+      },
+      {
+        "text":"Genshin-7",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Genshin/15.jpg'>"
+      },
+      {
+        "text":"Genshin-8",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Genshin/16.jpg'>"
+      },
+      {
+        "text":"Genshin-9",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Genshin/17.jpg'>"
+      },
+      {
+        "text":"Genshin-10",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Genshin/18.jpg'>"
+      },
+      {
+        "text":"Genshin-11",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Genshin/19.jpg'>"
+      },
+      {
+        "text":"Genshin-12",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Genshin/2.jpg'>"
+      },
+      {
+        "text":"Genshin-13",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Genshin/20.jpg'>"
+      },
+      {
+        "text":"Genshin-14",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Genshin/21.jpg'>"
+      },
+      {
+        "text":"Genshin-15",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Genshin/22.jpg'>"
+      },
+      {
+        "text":"Genshin-16",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Genshin/3.jpg'>"
+      },
+      {
+        "text":"Genshin-17",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Genshin/4.jpg'>"
+      },
+      {
+        "text":"Genshin-18",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Genshin/5.jpg'>"
+      },
+      {
+        "text":"Genshin-19",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Genshin/6.jpg'>"
+      },
+      {
+        "text":"Genshin-20",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Genshin/7.jpg'>"
+      },
+      {
+        "text":"Genshin-21",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Genshin/8.jpg'>"
+      },
+      {
+        "text":"Genshin-22",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Genshin/9.jpg'>"
+      }
+    ]
+  }
+}
