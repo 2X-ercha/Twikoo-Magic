@@ -107,9 +107,9 @@
 | ![](https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/Arknights_aridity/aridity_01.jpg) | ![](https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/Arknights_conformity/conformity_01.jpg) | ![](https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/Arknights_phantom/phantom_01.jpg) |
 | [明日方舟-荒芜](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/Arknights_aridity) | [明日方舟-整合](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/Arknights_conformity) | [明日方舟-魅影](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/Arknights_phantom) |
 | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Arknights_aridity) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Arknights_conformity) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Arknights_phantom) |
-| ![](https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/Arknights_coffeehouse/coffeehouse_01.jpg) | ![](https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/huaji/huaji(1).gif) |                                                              |
-| [明日方舟-咖啡屋](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/Arknights_coffeehouse) | [滑稽](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/huaji) |                                                              |
-| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Arknights_coffeehouse) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/huaji) |                                                              |
+| ![](https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/Arknights_coffeehouse/coffeehouse_01.jpg) | ![](https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/huaji/huaji(1).gif) | ![](https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/smallshake/-6ddd0bf163b88414.jpg) |
+| [明日方舟-咖啡屋](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/Arknights_coffeehouse) | [滑稽](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/huaji) | [小鲨鱼](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/smallshake) |
+| [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/Arknights_coffeehouse) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/huaji) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/smallshake) |
 
 
 
