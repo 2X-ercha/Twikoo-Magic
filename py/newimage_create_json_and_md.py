@@ -9,7 +9,7 @@ for classname in classlist:
     except: pass
 
     filenamelist = os.listdir("./py/newimage/"+classname)
-    url = "https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/" + classname + "/"
+    url = "https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/" + classname + "/"
 
     classjson = {}
     classjson["type"]="image"
@@ -56,7 +56,7 @@ for classname in classlist:
 for classname in classlist:
     # 创建新图片的github源README.md
     filenamelist = os.listdir("./py/newimage/"+classname)
-    url = "https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/" + classname + "/"
+    url = "https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/" + classname + "/"
 
     # Classification文件夹
     with open("./Classification/"+classname+"/"+"README.md", "w", encoding="utf-8") as md:
