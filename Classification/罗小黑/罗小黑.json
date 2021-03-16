@@ -1,0 +1,71 @@
+{
+  "罗小黑":{
+    "type":"image",
+    "container":[
+      {
+        "text":"罗小黑-1",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/罗小黑/你好呀.png'>"
+      },
+      {
+        "text":"罗小黑-2",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/罗小黑/加油.png'>"
+      },
+      {
+        "text":"罗小黑-3",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/罗小黑/可可爱爱.png'>"
+      },
+      {
+        "text":"罗小黑-4",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/罗小黑/吃瓜.png'>"
+      },
+      {
+        "text":"罗小黑-5",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/罗小黑/嗨.png'>"
+      },
+      {
+        "text":"罗小黑-6",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/罗小黑/大麦.png'>"
+      },
+      {
+        "text":"罗小黑-7",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/罗小黑/干杯.png'>"
+      },
+      {
+        "text":"罗小黑-8",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/罗小黑/找彩蛋.png'>"
+      },
+      {
+        "text":"罗小黑-9",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/罗小黑/撒花.png'>"
+      },
+      {
+        "text":"罗小黑-10",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/罗小黑/来了.png'>"
+      },
+      {
+        "text":"罗小黑-11",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/罗小黑/歪在吗.png'>"
+      },
+      {
+        "text":"罗小黑-12",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/罗小黑/求包养.png'>"
+      },
+      {
+        "text":"罗小黑-13",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/罗小黑/看电影.png'>"
+      },
+      {
+        "text":"罗小黑-14",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/罗小黑/真棒.png'>"
+      },
+      {
+        "text":"罗小黑-15",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/罗小黑/自来水.png'>"
+      },
+      {
+        "text":"罗小黑-16",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/罗小黑/鼓掌.png'>"
+      }
+    ]
+  }
+}
