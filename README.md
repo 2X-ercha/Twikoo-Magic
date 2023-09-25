@@ -117,6 +117,8 @@
 | ![](https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/bilibili_tv_gif/doge.gif) | ![](https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/罗小黑/你好呀.png) | ![](https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/那兔/。。。.png) |
 | [bilibili动态小电视](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/bilibili_tv_gif) | [罗小黑](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/罗小黑) | [那年那兔那些事儿](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/那兔) |
 | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/bilibili_tv_gif) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/罗小黑) | [oss](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Class_oss/那兔) |
+| ![](https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/Strit_Bochi/to.png) |                                                              |                                                              |
+| [丝提の波奇](https://github.com/2x-ercha/Twikoo-Magic/tree/master/Classification/Strit_Bochi) |                                                              |                                                              |
 
 
 
